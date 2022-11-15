@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\bin\Debug\net6.0\LambdaExpressionProblem.exe
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\bin\Debug\net6.0\LambdaExpressionProblem.deps.json
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\bin\Debug\net6.0\LambdaExpressionProblem.runtimeconfig.json
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\bin\Debug\net6.0\LambdaExpressionProblem.dll
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\bin\Debug\net6.0\LambdaExpressionProblem.pdb
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.AssemblyInfo.cs
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.dll
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\refint\LambdaExpressionProblem.dll
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.pdb
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\LambdaExpressionProblem.genruntimeconfig.cache
+C:\Users\user\source\repos\LambdaExpressionProblem\LambdaExpressionProblem\obj\Debug\net6.0\ref\LambdaExpressionProblem.dll
